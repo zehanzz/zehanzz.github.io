@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: pic1.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>351 Marin Blvd</p>
