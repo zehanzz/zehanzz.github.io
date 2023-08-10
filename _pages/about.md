@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I'm Zehan Zhao, a fervent explorer at the intersection of artificial intelligence, robotics, and medical science. My academic voyage began at the University of California, Los Angeles (UCLA), where I immersed myself in computer science, navigating its vast intricacies and challenges. My thirst for knowledge led me to New York University (NYU), where I expanded my horizon with a master's degree, delving deeply into machine learning (ML) and deep learning (DL).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, my research focuses on biology data augmentation. I'm genuinely passionate about pushing the boundaries in bioinformatics. I see a future where AI simplifies and unravels the complex layers of biological data, making what once seemed impossible, possible.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+But my journey hasn’t been confined to just the classroom and the research lab. I've been fortunate enough to wear multiple hats in the tech industry. As a Software Development Engineer (SDE) intern, I honed my coding prowess with Java, building robust and efficient solutions for real-world challenges. Venturing further into the realm of artificial intelligence, I embraced the role of a Machine Learning Engineer (MLE) intern, where I zeroed in on object detection.
