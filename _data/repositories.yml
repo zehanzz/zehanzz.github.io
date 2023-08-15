@@ -3,8 +3,9 @@
 
 github_repos:
   - zehanzz/DeepDTA
+  - zehanzz/TDConvED
   - zehanzz/Mask-Detection
   - zehanzz/Pneumonia-Detection
   - zehanzz/voa-project
   - zehanzz/Face-Filter-and-Subtitle
-  - zehanzz/TDConvED
+ 
